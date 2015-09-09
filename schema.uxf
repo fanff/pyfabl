@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>220</x>
+      <y>140</y>
+      <w>140</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Machine 1
+halign=left</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>210</x>
+      <y>300</y>
+      <w>150</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>Machine 2
+halign=left</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>470</x>
+      <y>220</y>
+      <w>140</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Fakecable
+10% drop
+10% cut
+10% halfdrop
+70% pass
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>330</x>
+      <y>200</y>
+      <w>180</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>lt=().()
+m1=192.168.42.2/24
+m2=192.168.42.1/24</panel_attributes>
+    <additional_attributes>10.0;140.0;160.0;140.0;160.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+</diagram>
